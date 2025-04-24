@@ -10,7 +10,7 @@ A simple e-commerce website built using the Flask framework in Python. The appli
 - Future improvement: Payment gateway integration using Instamojo
 
 ## Live Demo
-Try out the application here: [NIELIT E-Commerce GKU](https://ecommerecegku.glitch.me/)
+Try out the application here: [NIELIT E-Commerce GKU](https://ecommercegku.glitch.me/)
 
 ## Admin Credentials
 Use the following credentials to log in as an admin:
